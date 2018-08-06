@@ -75,7 +75,7 @@ Spring Boot WebFlux 实现 Restful 服务
 #### e. 『 其他篇 』
 - springboot-elasticsearch <br>
  [《Spring Boot 整合 Elasticsearch，实现 function score query 权重分查询》](http://www.bysocket.com/?p=1829 "Spring Boot 整合 Elasticsearch，实现 function score query 权重分查询")<br>
-- springboot-dubbo-server <br>
+- springboot-dubbo-server <br>·
 - springboot-dubbo-client <br>
 Dubbo 服务提供者工程和 Dubbo 服务消费者工程 <br>
  [《Springboot 整合 Dubbo/ZooKeeper 详解 SOA 案例》](http://www.bysocket.com/?p=1681 "Springboot 整合 Dubbo/ZooKeeper 详解 SOA 案例")<br>

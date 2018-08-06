@@ -17,12 +17,12 @@ public class City implements Serializable{
     /**
      * 城市编号
      */
-    private Long id;
+    private String id;
 
     /**
      * 省份编号
      */
-    private Long provinceid;
+    private String provinceid;
 
     /**
      * 城市名称
@@ -34,19 +34,19 @@ public class City implements Serializable{
      */
     private String description;
 
-    public Long getId() {
+    public String getId() {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setId(String id) {
         this.id = id;
     }
 
-    public Long getProvinceid() {
+    public String getProvinceid() {
         return provinceid;
     }
 
-    public void setProvinceid(Long provinceid) {
+    public void setProvinceid(String provinceid) {
         this.provinceid = provinceid;
     }
 

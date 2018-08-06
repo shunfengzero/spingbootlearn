@@ -33,7 +33,7 @@ public class CityESServiceImpl implements CityService {
     CityRepository cityRepository;
 
     @Override
-    public Long saveCity(City city) {
+    public String saveCity(City city) {
 
         City cityResult = cityRepository.save(city);
         return cityResult.getId();
